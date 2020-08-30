@@ -2,7 +2,7 @@
 PRJ666 Peoject for group 10 - Detective Game Web Application  
 
 # Live URL
-https://prj666g10.herokuapp.com/
+http://ec2-18-189-145-60.us-east-2.compute.amazonaws.com/
 
 # Prerequisites
 Install Node JS    
