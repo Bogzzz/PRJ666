@@ -1,5 +1,5 @@
-# PRJ566  
-PRJ566 Peoject for group 10 - Detective Game Web Application  
+# PRJ666  
+PRJ666 Peoject for group 10 - Detective Game Web Application  
 
 # Live URL
 https://prj666g10.herokuapp.com/
